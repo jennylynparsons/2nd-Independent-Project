@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: green;
+  background-color: #b2b8c2;
+  border: dotted 20px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.form {
+  float:right;
+  background-color: #b2b8c2;
+  color: green; 
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
