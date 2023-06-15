@@ -27,10 +27,10 @@ h1 {
 body {
   padding-left: 20px;
   padding-right: 20px;
+  background-color:green;
 }
 
 .results {
-  float:right;
   text-align: center;
   background-color: #b2b8c2;
   color: rgb(128, 0, 98); 
