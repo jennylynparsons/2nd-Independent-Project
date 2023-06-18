@@ -33,3 +33,9 @@ body {
 .hidden {
   display: none;
 }
+
+#result {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+}
