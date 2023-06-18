@@ -7,7 +7,6 @@ function handleSelect(event) {
   const q5 = parseInt(document.getElementById("q5").value);
 
   let result;
-
   if (q1 + q2 + q3 + q4 + q5 === 5) {
     result = "Ruby";
   }
@@ -17,19 +16,15 @@ function handleSelect(event) {
   else if (q1 + q2 + q3 + q4 + q5 === 15) {
     result = "Python";
   }
-  else if (q1 + q2 + q3 + q4 + q5 <= 15) {
-    result ="Python";
+  else {
+    result ="Ruby";
   }
-
-
 
   document.getElementById("result").innerText = result;
 }
+
 window.onload = function () {
   const form = document.querySelector("form")
   form.addEventListener("submit", handleSelect)
 }
-//window.addEventListener("load", function() {
-  //document.getElementById("form").addEventListener("submit", handleSelect);
-//});
-//}
+

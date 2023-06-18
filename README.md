@@ -11,7 +11,7 @@
 
 ## Description
 
-_Web form that collects info from user via a form and suggests a programming language based on the inputs from the user._
+_Web form that collects info from user via a drop down selection form and suggests a programming language based on the inputs from the user._
 
 ## Setup/Installation Requirements
 
@@ -25,6 +25,6 @@ _Web form that collects info from user via a form and suggests a programming lan
 
 ## MIT
 
-_Please reach out with any issues with the code, or make a contribution._
+_Please reach out with any issues found in the code, or make a contribution._
 
 Copyright (c) _6/14/2023_ _Jenny Parsons_
